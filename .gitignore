@@ -1,0 +1,36 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.mypy_cache/
+
+# Large raw raster imagery and boundary TIFF files
+# (Excluded per take-home instructions to keep repository lean; downloadable per village bundle)
+*.tif
+*.tiff
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environment variables and secrets
+.env
+.env.*
+*.pem
+*.key
+*.token
+
+# Scratch / temporary files
+scratch/
