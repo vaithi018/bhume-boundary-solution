@@ -9,10 +9,9 @@ Per the assignment specification in `CONTRACT.md`:
 
 ## 1. Submission Links
 
-- **5-Minute Approach Walkthrough Video**: `[Insert link here, e.g., Loom / YouTube / Google Drive]`
+- **5-Minute Approach Walkthrough Video**: https://drive.google.com/file/d/1zVDvy-z4V4ckd4gh9ebR08q-V1UD1d-j/view?usp=sharing
 - **Web-Chat Share Links (Problem Understanding / Initial Framing)**:
-  - `[Insert web-chat link 1]`
-  - `[Insert web-chat link 2]`
+  - https://chatgpt.com/share/6ac4f137-b5d8-83ee-afac-77c9d76d838e
 
 ---
 
